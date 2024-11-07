@@ -1,4 +1,4 @@
-#USER GIUDE
+## USER GIUDE
 
 ## Purpose
 This guide is designed to help users understand and navigate the School Trip Booking and Payment System. It includes steps for signing up, booking trips, making payments, managing notifications, and accessing support, tailored for students, parents, and administrators.
