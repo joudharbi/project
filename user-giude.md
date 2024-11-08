@@ -1,15 +1,3 @@
-# Troubleshooting Guide
-
-## Purpose
-A guide dedicated to addressing common technical issues that users and developers may encounter. This is vital to reduce frustration while using or setting up the Al-Faqih application, ensuring that problems are resolved faster.
-
-## Audience
-- Students
-- Teachers
-- Parents
-
----
-
 # User Guide
 
 ## Purpose
@@ -23,8 +11,8 @@ This guide is designed to help users understand and navigate the School Trip Boo
 5. [Administrators’ Guide](#administrators-guide)
 6. [Technical Support](#technical-support)
 
----
 
+   
 ## Audience
 This system is designed for:
 
@@ -32,6 +20,12 @@ This system is designed for:
 - **Teachers**: To oversee trip details, communicate with parents and students, and manage logistics.
 - **Parents**: To view trip details, handle payments, and receive updates.
 - **Administrators**: To manage trip logistics, communicate updates, and track participation.
+
+---
+
+
+
+---
 
 ---
 
